@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apicache": "^1.6.3",
+    "express-rate-limit": "^6.3.0"
+  }
+}

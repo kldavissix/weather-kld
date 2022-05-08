@@ -1,0 +1,11 @@
+Hide Weather API Key (node)
+Weather Icons and background
+Transition/Animation
+Firebase (API Key?) and Auth
+Jest
+
+Bg Image (faded)
+Search Box, X Button With Search
+Box with Opacity
+White Text
+	City, Date, Time, Icon, Temp, Desc, Low, High, Precip
